@@ -19,7 +19,7 @@ namespace Positioning
 		TextView tvProvider;
 		string locationProvider;
 		LocationManager locationManager;
-		EventHandler<DialogClickEventArgs> handler;
+		//EventHandler<DialogClickEventArgs> handler;
 
 		protected override void OnCreate(Bundle savedInstanceState)
 		{
